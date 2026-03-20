@@ -4,7 +4,7 @@
 <body>
 
 <h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h6>My first paragraph.</h6>
 
 </body>
 </html>
